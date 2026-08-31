@@ -1,0 +1,7 @@
+Compress the information in the retrieved documents into a 2-sentence summary that could be used to answer the question:
+Question: {question}
+
+Retrieved documents: 
+{search_results}
+
+Compressed documents:
